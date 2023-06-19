@@ -1,0 +1,13 @@
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\bin\Debug\net7.0\Log4Net.config
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\bin\Debug\net7.0\Log4Net.LogUtility.deps.json
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\bin\Debug\net7.0\Log4Net.LogUtility.dll
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\bin\Debug\net7.0\Log4Net.LogUtility.pdb
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.csproj.AssemblyReference.cache
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.AssemblyInfoInputs.cache
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.AssemblyInfo.cs
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.dll
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\refint\Log4Net.LogUtility.dll
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\Log4Net.LogUtility.pdb
+D:\WorkSpace\Log4Net\Log4Net\Log4Net.LogUtility\obj\Debug\net7.0\ref\Log4Net.LogUtility.dll

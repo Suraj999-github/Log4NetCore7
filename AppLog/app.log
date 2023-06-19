@@ -1,0 +1,65 @@
+INFO  02:41:31 Starting the console application
+DEBUG 02:41:36 Starting Program
+ERROR 02:41:48 Sample Error inside the try catch block code
+DEBUG 02:41:49 Waiting for user input
+INFO  02:41:49 Ending application
+FATAL 02:41:49 Ending Fatal application
+WARN  02:41:49 Ending Warn application
+INFO  02:43:42 Starting the console application
+DEBUG 02:43:46 Starting Program
+ERROR 02:44:03 Sample Error inside the try catch block code
+DEBUG 02:44:04 Waiting for user input
+INFO  02:44:04 Ending application
+FATAL 02:44:04 Ending Fatal application
+WARN  02:44:04 Ending Warn application
+INFO  02:45:19 Starting the console application
+DEBUG 02:45:20 Starting Program
+ERROR 02:45:20 Sample Error inside the try catch block code
+DEBUG 02:45:20 Waiting for user input
+INFO  02:45:20 Ending application
+FATAL 02:45:20 Ending Fatal application
+WARN  02:45:20 Ending Warn application
+INFO  03:08:31 Now listening on: https://localhost:7231
+INFO  03:08:31 Now listening on: https://localhost:7231
+INFO  03:08:31 Now listening on: http://localhost:5280
+INFO  03:08:31 Now listening on: http://localhost:5280
+INFO  03:08:31 Application started. Press Ctrl+C to shut down.
+INFO  03:08:31 Application started. Press Ctrl+C to shut down.
+INFO  03:08:31 Hosting environment: Development
+INFO  03:08:31 Hosting environment: Development
+INFO  03:08:31 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+INFO  03:08:31 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+WARN  03:08:37 This is a Log4Net warning on the privacy page
+INFO  03:10:30 Now listening on: https://localhost:7231
+INFO  03:10:30 Now listening on: https://localhost:7231
+INFO  03:10:30 Now listening on: http://localhost:5280
+INFO  03:10:30 Now listening on: http://localhost:5280
+INFO  03:10:30 Application started. Press Ctrl+C to shut down.
+INFO  03:10:30 Application started. Press Ctrl+C to shut down.
+INFO  03:10:30 Hosting environment: Development
+INFO  03:10:30 Hosting environment: Development
+INFO  03:10:30 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+INFO  03:10:30 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+DEBUG 03:10:58 Suraj test
+INFO  03:11:57 Now listening on: https://localhost:7231
+INFO  03:11:57 Now listening on: https://localhost:7231
+INFO  03:11:57 Now listening on: http://localhost:5280
+INFO  03:11:57 Now listening on: http://localhost:5280
+INFO  03:11:57 Application started. Press Ctrl+C to shut down.
+INFO  03:11:57 Application started. Press Ctrl+C to shut down.
+INFO  03:11:57 Hosting environment: Development
+INFO  03:11:57 Hosting environment: Development
+INFO  03:11:57 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+INFO  03:11:57 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+DEBUG 03:12:37 Suraj test
+INFO  03:13:25 Now listening on: https://localhost:7231
+INFO  03:13:25 Now listening on: https://localhost:7231
+INFO  03:13:25 Now listening on: http://localhost:5280
+INFO  03:13:25 Now listening on: http://localhost:5280
+INFO  03:13:25 Application started. Press Ctrl+C to shut down.
+INFO  03:13:25 Application started. Press Ctrl+C to shut down.
+INFO  03:13:25 Hosting environment: Development
+INFO  03:13:25 Hosting environment: Development
+INFO  03:13:25 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+INFO  03:13:25 Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+DEBUG 03:13:35 Suraj test

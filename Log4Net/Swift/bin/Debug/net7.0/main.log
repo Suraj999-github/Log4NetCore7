@@ -1,0 +1,44 @@
+2023-06-09 15:08:31,119 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:08:31,178 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:08:31,180 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:08:31,181 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:08:31,186 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:08:31,187 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:08:31,189 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:08:31,190 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:08:31,192 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:08:31,192 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:08:37,632 [.NET ThreadPool Worker] WARN Program.Index[26] - This is a Log4Net warning on the privacy page
+2023-06-09 15:10:30,033 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:10:30,085 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:10:30,087 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:10:30,088 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:10:30,094 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:10:30,095 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:10:30,097 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:10:30,098 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:10:30,100 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:10:30,100 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:10:58,645 [.NET ThreadPool Worker] DEBUG Log4Net.LogUtility.Log4Logger.Debug[23] - Suraj test
+2023-06-09 15:11:57,674 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:11:57,753 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:11:57,757 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:11:57,758 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:11:57,765 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:11:57,768 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:11:57,772 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:11:57,773 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:11:57,775 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:11:57,775 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:12:37,332 [.NET ThreadPool Worker] DEBUG Log4Net.LogUtility.Log4Logger.Debug[23] - Suraj test
+2023-06-09 15:13:25,312 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:13:25,396 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: https://localhost:7231
+2023-06-09 15:13:25,399 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:13:25,400 [1] INFO Microsoft.Hosting.Lifetime.?[?] - Now listening on: http://localhost:5280
+2023-06-09 15:13:25,420 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:13:25,422 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Application started. Press Ctrl+C to shut down.
+2023-06-09 15:13:25,425 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:13:25,426 [1] INFO Microsoft.Hosting.Lifetime.OnApplicationStarted[0] - Hosting environment: Development
+2023-06-09 15:13:25,432 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:13:25,433 [1] INFO Microsoft.Hosting.Lifetime.RunInternal[0] - Content root path: D:\WorkSpace\Log4Net\Log4Net\Swift
+2023-06-09 15:13:35,061 [.NET ThreadPool Worker] DEBUG Log4Net.LogUtility.Log4Logger.Debug[23] - Suraj test
